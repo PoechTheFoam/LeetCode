@@ -2,6 +2,7 @@
 
 **🚶‍➡️Approach🚶**:
 - Approached the problem with 2 for loop cases for even-odd palindrome lengths
+
 **⚠️Problems Encountered⚠️**:
 - Had trouble understanding the length formula used (r-l-1)
 - Initially used the string's length as an indicator for code direction (if s was even, use the code path for even-length palindromes)
